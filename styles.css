@@ -34,4 +34,26 @@ li {
   padding: 20px;
 }
 
+.main {
+  background-color: cyan;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20%;
+}
 
+.dog-section {
+  background-color: yellow;
+  padding: 20%;
+}
+
+.cat-section {
+  background-color: lavender;
+  padding: 20%;
+}
+
+.footer {
+  background-color: gray;
+  padding: 10%;
+}
